@@ -1,0 +1,13 @@
+D:\new code\图形译码\图形译码\bin\Debug\图形译码.exe.config
+D:\new code\图形译码\图形译码\bin\Debug\图形译码.exe
+D:\new code\图形译码\图形译码\bin\Debug\图形译码.pdb
+D:\new code\图形译码\图形译码\obj\Debug\图形译码.csproj.AssemblyReference.cache
+D:\new code\图形译码\图形译码\obj\Debug\图形译码.csproj.SuggestedBindingRedirects.cache
+D:\new code\图形译码\图形译码\obj\Debug\图形译码.Game.resources
+D:\new code\图形译码\图形译码\obj\Debug\图形译码.History.resources
+D:\new code\图形译码\图形译码\obj\Debug\图形译码.Start.resources
+D:\new code\图形译码\图形译码\obj\Debug\图形译码.Properties.Resources.resources
+D:\new code\图形译码\图形译码\obj\Debug\图形译码.csproj.GenerateResource.cache
+D:\new code\图形译码\图形译码\obj\Debug\图形译码.csproj.CoreCompileInputs.cache
+D:\new code\图形译码\图形译码\obj\Debug\图形译码.exe
+D:\new code\图形译码\图形译码\obj\Debug\图形译码.pdb
